@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(8, 8, 8);
+    font-family: verdana;
+    color: aliceblue;
+  }
+  h1 {
+    background-color: black;
+    color: rgb(241, 236, 236);
+    text-align: center;
+  }  
+  h2{
+    background-color: dimgrey;
+    color: chartreuse;
+  }
+
+  h3{
+    background-color: aquamarine;
+    color: rgb(245, 5, 5);
+    text-align: center;
+  }
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+table{ color:rgb(243, 243, 245); } 
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #393434;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(8, 250, 89);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #fffffd;
+}
+
+home {
+  width: 46px;
+  height: 44px;
+  background: url(ss.jpg) 0 0;
+}
+
+input{
+  background-color: rgb(245, 12, 101);
+  margin: 8px 0 ;
+  border: 0cqmax rgb(30, 0, 255);
+  border-radius: 2cm;
+  /* border:; */
+
+}
